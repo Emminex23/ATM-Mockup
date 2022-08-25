@@ -6,7 +6,7 @@ dataBaseUsers = {}
 
 def register():
 
-    print('*********REGISTER*********')
+    print('**********REGISTER**********')
 
     firstName = input('What is your first name? \n')
     lastName = input('What is your last name? \n')
